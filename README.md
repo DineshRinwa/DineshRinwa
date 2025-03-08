@@ -40,7 +40,7 @@
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dinesh-rinwa)  [![Twitter/X](https://img.shields.io/badge/Twitter/X-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/DR65561261)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dinesh-rinwa)  [![X](https://img.shields.io/badge/Twitter/X-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/DR65561261)  
 
 ---
 
