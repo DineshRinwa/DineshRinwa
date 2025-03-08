@@ -2,7 +2,7 @@
 
 ### 🚀 About Me  
 💻 I'm a passionate **Full Stack & Frontend Developer** with hands-on experience in **real-world projects**.  
-🌱 Currently learning **Frontend & Backend Development** through projects, excited to explore in depth over time.  
+🌱 I have completed Frontend & Backend Development through real-world projects and am excited to explore deeper as I continue learning.  
 🔥 Passionate about **learning new tech stacks** and creating **beautiful, eye-catching projects** using modern animations.  
 
 ---
@@ -34,8 +34,7 @@
 ---
 
 ## 📌 Projects  
-🔗 **Live Projects:**  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://dinesh-rinwa.vercel.app/)  [![SaaS Code Editor](https://img.shields.io/badge/SaaS_Code_Editor-000?style=for-the-badge&logo=vercel)](https://saa-s-code-editor.vercel.app/)  
+🔗 **Live Projects:**  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://dinesh-rinwa.vercel.app/)  [![SaaS Code Editor](https://img.shields.io/badge/SaaS_Code_Editor-000?style=for-the-badge&logo=vercel)](https://saa-s-code-editor.vercel.app/)  
 
 ---
 
