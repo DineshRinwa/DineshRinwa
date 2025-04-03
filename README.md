@@ -35,7 +35,9 @@
 
 ## 📌 Projects  
 🔗 **Live Projects:**  
-[![Lenskart(E-Commerce)](https://img.shields.io/badge/E-Commerce-000?style=for-the-badge&logo=vercel)](https://lenskart-webapp-seven.vercel.app/)    [![SaaS Code Editor](https://img.shields.io/badge/SaaS_Code_Editor-000?style=for-the-badge&logo=vercel)](https://saa-s-code-editor.vercel.app/)  
+[![🚀 Lenskart E-Commerce](https://img.shields.io/badge/Lenskart-E--Commerce-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://lenskart-webapp-seven.vercel.app/)  
+[![🛠️ SaaS Code Editor](https://img.shields.io/badge/SaaS_Code_Editor-1e1e1e?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://saa-s-code-editor.vercel.app/)
+
 
 ---
 
