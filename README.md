@@ -33,29 +33,15 @@
 
 ---
 
-## 📌 Projects  
-🔗 **Live Projects:**  
- [![ SaaS Code Editor](https://img.shields.io/badge/SaaS_Code_Editor-1e1e1e?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://saa-s-code-editor.vercel.app/)
-  [![ InstaMeet ](https://img.shields.io/badge/SaaS_Code_Editor-1e1e1e?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://saa-s-code-editor.vercel.app/)
-[![ Lenskart E-Commerce](https://img.shields.io/badge/Lenskart-E--Commerce-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://lenskart-webapp-seven.vercel.app/) 
 
-
-## 📌 Projects  
 
 🔗 **Live Projects:**  
 
 [![SaaS Code Editor](https://img.shields.io/badge/SaaS_Code_Editor-1e1e1e?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://saa-s-code-editor.vercel.app/)  
-💡 A collaborative online code editor with real-time preview, syntax highlighting, and team sharing support. Built using React, CodeMirror, and Zustand.
-
----
 
 [![InstaMeet - Video Call App](https://img.shields.io/badge/InstaMeet_Video_Call_App-darkcyan?style=for-the-badge&logo=zoom&logoColor=white)](https://insta-meet-video-call-app.vercel.app/)  
-🎥 A real-time video calling app like Google Meet using WebRTC, Socket.io, and React. Includes features like room creation, joining via link, and screen sharing.
-
----
 
 [![Lenskart E-Commerce](https://img.shields.io/badge/Lenskart_E--Commerce_App-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://lenskart-webapp-seven.vercel.app/)  
-🛍️ An e-commerce web app inspired by Lenskart. Features product listings, filtering, search, cart, checkout, user login/register, and responsive design using React, Redux, and Node.js.
 
 
 
