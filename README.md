@@ -38,9 +38,7 @@
 🔗 **Live Projects:**  
 
 [![SaaS Code Editor](https://img.shields.io/badge/SaaS_Code_Editor-1e1e1e?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://saa-s-code-editor.vercel.app/)  
-
 [![InstaMeet - Video Call App](https://img.shields.io/badge/InstaMeet_Video_Call_App-darkcyan?style=for-the-badge&logo=zoom&logoColor=white)](https://insta-meet-video-call-app.vercel.app/)  
-
 [![Lenskart E-Commerce](https://img.shields.io/badge/Lenskart_E--Commerce_App-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://lenskart-webapp-seven.vercel.app/)  
 
 
