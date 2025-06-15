@@ -29,7 +29,7 @@
 
 ### 🔧 Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-3E71F7?style=for-the-badge&logo=clerk&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)  ![DeepSeek](https://img.shields.io/badge/DeepSeek-FF6B00?style=for-the-badge&logo=deepseek&logoColor=white)  ![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)  
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)  ![DeepSeek](https://img.shields.io/badge/DeepSeek-FF6B00?style=for-the-badge&logo=deepseek&logoColor=white)  ![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)  
 
 ---
 
